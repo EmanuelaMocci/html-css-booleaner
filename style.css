@@ -39,3 +39,11 @@ body{
 .descrizione{
     font-size: 12px;
 }
+
+.evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 5px;
+}
