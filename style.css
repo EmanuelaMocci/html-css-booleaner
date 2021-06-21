@@ -66,12 +66,22 @@ table {
     table-layout: fixed;
     width: 100%;  
   }
-/* 
-td{
-    width: 10%;
-} */
 
+.immagine1{
+    background-image: url("img/monitor.jpg");
+}
 
+.immagine2{
+    background-image: url("img/graph.jpg");
+}
+
+.testo-img{
+    background-repeat: no-repeat;
+    height: 208px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
 
 
 
