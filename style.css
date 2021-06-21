@@ -48,3 +48,31 @@ body{
     color: #9e9999;
 }
 
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.linea-tabella{
+    background-color: #B1E5F2;
+}
+
+th{
+    text-align: left
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;  
+  }
+/* 
+td{
+    width: 10%;
+} */
+
+
+
+
+
+
