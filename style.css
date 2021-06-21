@@ -1,0 +1,21 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+.logo{
+    height: 250px;
+    width: 250px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+.sfondo-logo{
+    background-image: url("img/pattern.png");
+    height: 175px;
+    background-color: #4EA0FF; 
+}
+
+h1{
+    font-size: 45px;
+}
